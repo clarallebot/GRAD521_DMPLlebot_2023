@@ -2,6 +2,14 @@
 
 Copy paste what you wrote in DMP1 assignment
 
+## Model data
+
+Here description of model data
+
+## Lab data
+
+Here description of lab data
+
 # Roles and responsibilities
 
 Copy paste what you wrote in DMP2.
